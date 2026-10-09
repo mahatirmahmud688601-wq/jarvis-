@@ -1,15 +1,46 @@
-# Jarvis
+# Jarvis — AI Assistant Workspace
 
-An experimental AI assistant project workspace focused on intelligent assistance and automation.
+[![Open repository](https://img.shields.io/badge/GitHub-Open%20repository-181717?style=for-the-badge&logo=github)](https://github.com/mahatirmahmud688601-wq/jarvis-)
 
-## Vision
+![Interface preview](docs/interface-preview.svg)
 
-Jarvis is intended to explore practical ways an AI assistant can help with everyday workflows, information, and productivity.
+## What this project is
 
-## Project Status
+Jarvis is currently an early-stage AI assistant concept. The repository contains documentation only; no interface has been implemented yet.
 
-Early development. The repository is currently being organized, and implementation details will be documented as features are added.
+## Interface at a glance
 
-## Explore
+This repository contains or plans the following visitor-facing areas:
 
-[View Jarvis on GitHub](https://github.com/mahatirmahmud688601-wq/jarvis-)
+- **Vision**
+- **Project status**
+- **Planned assistant UI**
+- **Future setup guide**
+
+The visual map above is based on the actual repository structure. It is deliberately labeled as an **interface map**, not a fabricated product screenshot.
+
+## Run / view
+
+There is currently no truthful run command because the repository has no source code, package manifest, or app entry point.
+
+**Repository link:** [https://github.com/mahatirmahmud688601-wq/jarvis-](https://github.com/mahatirmahmud688601-wq/jarvis-)
+
+## Project status
+
+> EARLY DEVELOPMENT — UI NOT IMPLEMENTED
+
+A real app screenshot is intentionally not included because no app screen exists yet. The preview below communicates the current project status without inventing a UI.
+
+## Repository notes
+
+- Keep API keys, OAuth secrets, signing keys, and private environment files out of Git.
+- Add a verified public demo, APK, or release link here when one is available.
+- Add real screenshots from the running app after the required local dependencies and credentials are configured.
+
+## Technology
+
+Early-stage documentation workspace
+
+---
+
+Maintained by [mahatirmahmud688601-wq](https://github.com/mahatirmahmud688601-wq).
